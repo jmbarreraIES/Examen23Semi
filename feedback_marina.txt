@@ -1,0 +1,5 @@
+Qué haría para mejorar Git para el año que viene...
+Dar más horas. Me ha gustado bastante este tema. Además, los recursos proporcionados son de mucha ayuda (pdfs, vídeos Mouredev, etc.)
+
+Lo único malo es que al ser en el ciclo semipresencial es algo que se da muy rápido, e intentar hacer los comanos con ambos programas
+(Git Bash y Git Kraken) a veces es un poco locura.
