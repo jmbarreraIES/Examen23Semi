@@ -1,0 +1,5 @@
+Como feedback de Git.. No lo sé, me ha gustado todo lo que hemos estado dando en clase, además de los recursos que nos ha dado el profesor
+apuntes, vídeos de Mouredev, etc.
+
+La única falla que veo es que al ser semipresencial, en clase ejecutar los comandos y acciones con los dos programas a la vez
+(Git Bash y Git Kraken) era un poco locura
