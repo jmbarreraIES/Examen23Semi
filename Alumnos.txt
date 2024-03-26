@@ -2,7 +2,5 @@ Alex Sanz Romero
 Vicent R Llorens
 Marina Juárez Sierra
 Juan Milla Olaya
-<<<<<<< HEAD
 Alejandro Mazario Morales
-=======
->>>>>>> 2976beff414126146ea11b9370913d582e46faa3
+
