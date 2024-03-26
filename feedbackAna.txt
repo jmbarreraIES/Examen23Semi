@@ -1,0 +1,1 @@
+Git me ha parecido una herramienta superútil pero la configuración de la claves públicas y privadas me han resultado un poco complicadas.
