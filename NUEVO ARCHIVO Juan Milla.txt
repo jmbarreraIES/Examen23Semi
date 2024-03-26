@@ -1,0 +1,1 @@
+Para mejorar la parte de git, añadiría diapositivas sobre el fork y la gestión de ramas remotas.
