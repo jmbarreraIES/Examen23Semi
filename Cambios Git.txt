@@ -1,0 +1,3 @@
+Yo mejoraría la interfaz gráfica con los branchs, commits, etc... Que sea más visible lo que se va 
+haciendo al repositorio según se va avanzando. Al principio puede resultar muy confuso y creo que eso
+podría ayudar.
